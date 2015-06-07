@@ -1,5 +1,5 @@
 {
-  "name": "codepen-api",
+  "name": "codepen-scraper",
   "version": "0.1.0",
   "description": "A Node.js script that crawls CodePen and gets information about a user",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eduardoboucas/codepen-api.git"
+    "url": "https://github.com/eduardoboucas/codepen-scraper.git"
   },
   "keywords": [
     "codepen",
@@ -27,7 +27,7 @@
   },
   "license": "None",
   "bugs": {
-    "url": "https://github.com/eduardoboucas/codepen-api/issues"
+    "url": "https://github.com/eduardoboucas/codepen-scraper/issues"
   },
-  "homepage": "https://github.com/eduardoboucas/codepen-api"
+  "homepage": "https://github.com/eduardoboucas/codepen-scraper"
 }
